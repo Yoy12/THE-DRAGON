@@ -1,0 +1,15 @@
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.csproj.AssemblyReference.cache
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.AssemblyInfoInputs.cache
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.AssemblyInfo.cs
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.csproj.CoreCompileInputs.cache
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\bin\Debug\net7.0\DRAGONLake.exe
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\bin\Debug\net7.0\DRAGONLake.deps.json
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\bin\Debug\net7.0\DRAGONLake.runtimeconfig.json
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\bin\Debug\net7.0\DRAGONLake.dll
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\bin\Debug\net7.0\DRAGONLake.pdb
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.dll
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\refint\DRAGONLake.dll
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.pdb
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\DRAGONLake.genruntimeconfig.cache
+C:\Users\trend\source\repos\DRAGONLake\DRAGONLake\obj\Debug\net7.0\ref\DRAGONLake.dll
